@@ -1,1 +1,11 @@
+# opis projektu
 
+Projekt dotyczy aplikacji wspierającej studentów w efektywnym planowaniu nauki. 
+Rozwiązuje problem trudności z organizacją czasu oraz nadmiarem obowiązków akademickich. 
+**Głównymi odbiorcami** są osoby w wieku *18–25 lat*, które chcą lepiej zarządzać swoimi zadaniami. 
+W aplikacji znajdą się takie funkcje jak 
+- lista zadań,
+- kalendarz tygodniowy 
+- proste statystyki postępów.
+  
+`Celem projektu jest ułatwienie studentom codziennego planowania i zwiększenie ich produktywności.`
