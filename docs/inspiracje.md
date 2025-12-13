@@ -1,1 +1,20 @@
+# Inspiracje:
+- Słowa kluczowe: kreatywność, innowacja, funkcjonalność, estetyka
+- Skojarzenia: prostota, użyteczność, intuicyjność
+- Pomysły: aplikacja do zarządzania czasem, narzędzie do nauki, platforma do współpracy
 
+## Lista elementów projektu:
+*1. Interfejs użytkownika*
+**2. Baza danych**
+*3. Funkcjonalności podstawowe*
+**4. Funkcjonalności dodatkowe**
+*5. Dokumentacja*
+
+## Wstępne dane wejściowe:
+- Lista kategorii: produktywność, edukacja, współpraca
+- Lista funkcji: rejestracja użytkownika, logowanie, dodawanie zadań, edycja zadań, raportowanie postępów
+
+## Lista źródeł pomysłu:
+~- Znajomy: potrzeba lepszego zarządzania czasem~
+- Własna potrzeba: organizacja codziennych zadań
+- Przypadek: inspiracja z popularnych aplikacji na rynku
