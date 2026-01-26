@@ -8,4 +8,5 @@ W aplikacji znajdą się takie funkcje jak
 - kalendarz tygodniowy 
 - proste statystyki postępów.
 - mój dodany teskt na potrzeby prezentacji
+
 `Celem projektu jest ułatwienie studentom codziennego planowania i zwiększenie ich produktywności.`
